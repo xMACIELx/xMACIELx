@@ -11,3 +11,10 @@
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xMACIELx&layout=compact)
+
+## [Cursos e Formações](https://www.linkedin.com/in/pedro-henrique-maciel-7947a91a8/details/education/)
+
+- Formação em Tecnologia - Desenvolvedor Full Stack
